@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ...
+- 👋 Hi, I’m AdarshTiwari04
 - 👀 I’m interested in coding and programming .
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on web development .
